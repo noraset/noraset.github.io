@@ -1,0 +1,19 @@
+{
+  "assets": [
+    {
+      "id": "hold_it_logo",
+      "path": "generated_assets/hold_it_logo.png",
+      "type": "image/png"
+    },
+    {
+      "id": "platform_wood_grass",
+      "path": "generated_assets/hold_it_cover_style_platform_2d_polished_original_size.png",
+      "type": "image/png"
+    },
+    {
+      "id": "bridge_wood_plank",
+      "path": "generated_assets/hold_it_cover_style_wood_plank_2d_polished_original_size.png",
+      "type": "image/png"
+    }
+  ]
+}
